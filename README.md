@@ -1,2 +1,2 @@
 # my-project
-This are my projects on data science and A.I
+This are some of the projects i have worked on using python and R 
