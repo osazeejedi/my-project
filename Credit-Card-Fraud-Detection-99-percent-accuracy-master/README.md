@@ -1,3 +1,5 @@
+Author- OSAZEE OGHAGBON
+
 Prediction model for detecting credit card fraud.
 ● Transformed data to contain numeric values by oversampling using RandomOverSampler, Python, NumPy,
 Pandas, sklearn, matplotlib, SMOTE to create resampled dataset of 500,000 rows.
